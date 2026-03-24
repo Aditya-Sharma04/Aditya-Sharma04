@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects" />
 </p>
 
 ---
